@@ -1,0 +1,1346 @@
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    overflow-x: hidden;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(0, 0, 0);
+    min-height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+}
+
+i {
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    animation-duration: 0s;
+    animation-timing-function: ease;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    animation-name: screen;
+}
+
+i:nth-child(1) {
+    top: 20px;
+    left: 30px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(2, 226, 252, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(2, 226, 252) 0px 0px 5px 0px;
+    animation-duration: 5s;
+}
+
+i:nth-child(2) {
+    top: 420px;
+    left: 30px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(250, 160, 2, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(250, 160, 2) 0px 0px 5px 0px;
+    animation-duration: 21s;
+}
+
+i:nth-child(3) {
+    top: 550px;
+    left: 880px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(20, 252, 2, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(20, 252, 2) 0px 0px 5px 0px;
+    animation-duration: 5s;
+}
+
+i:nth-child(4) {
+    top: 5px;
+    left: 1030px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(252, 2, 196, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(252, 2, 196) 0px 0px 5px 0px;
+    animation-duration: 4s;
+}
+
+i:nth-child(5) {
+    top: 280px;
+    left: 12px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(139, 44, 148, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(139, 44, 148) 0px 0px 5px 0px;
+    animation-duration: 5s;
+}
+
+i:nth-child(6) {
+    top: 550px;
+    left: 30px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(251, 184, 41, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(251, 184, 41) 0px 0px 5px 0px;
+    animation-duration: 6s;
+}
+
+i:nth-child(7) {
+    top: 650px;
+    left: 50px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(195, 255, 104, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(195, 255, 104) 0px 0px 5px 0px;
+    animation-duration: 15s;
+}
+
+i:nth-child(8) {
+    top: 20px;
+    left: 860px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(255, 0, 102, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(255, 0, 102) 0px 0px 5px 0px;
+    animation-duration: 5s;
+}
+
+i:nth-child(9) {
+    top: 896px;
+    left: 132px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(255, 255, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(255, 255, 0) 0px 0px 5px 0px;
+    animation-duration: 13s;
+}
+
+i:nth-child(10) {
+    top: 578px;
+    left: 357px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(127, 175, 27, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(127, 175, 27) 0px 0px 5px 0px;
+    animation-duration: 4s;
+}
+
+i:nth-child(11) {
+    top: 380px;
+    left: 230px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(1, 210, 255, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(1, 210, 255) 0px 0px 5px 0px;
+    animation-duration: 5s;
+}
+
+i:nth-child(12) {
+    top: 570px;
+    left: 1100px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(237, 247, 255, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(237, 247, 255) 0px 0px 5px 0px;
+    animation-duration: 6s;
+}
+
+i:nth-child(13) {
+    top: 600px;
+    left: 600px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(0, 255, 255, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(0, 255, 255) 0px 0px 5px 0px;
+    animation-duration: 7s;
+}
+
+i:nth-child(14) {
+    top: 200px;
+    left: 520px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(0, 0, 255, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(0, 0, 255) 0px 0px 5px 0px;
+    animation-duration: 14s;
+}
+
+i:nth-child(15) {
+    top: 370px;
+    left: 500px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(16, 225, 228, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(16, 225, 228) 0px 0px 5px 0px;
+    animation-duration: 9s;
+}
+
+i:nth-child(16) {
+    top: 620px;
+    left: 730px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(255, 51, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(255, 51, 0) 0px 0px 5px 0px;
+    animation-duration: 3s;
+}
+
+i:nth-child(17) {
+    top: 62px;
+    left: 330px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(255, 234, 232, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(255, 234, 232) 0px 0px 5px 0px;
+    animation-duration: 4s;
+}
+
+i:nth-child(18) {
+    top: 0px;
+    left: 250px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(255, 229, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(255, 229, 0) 0px 0px 5px 0px;
+    animation-duration: 5s;
+}
+
+i:nth-child(19) {
+    top: 600px;
+    left: 180px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(255, 102, 153, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(255, 102, 153) 0px 0px 5px 0px;
+    animation-duration: 6s;
+}
+
+i:nth-child(20) {
+    top: 987px;
+    left: 13px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(84, 156, 204, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(84, 156, 204) 0px 0px 5px 0px;
+    animation-duration: 7s;
+}
+
+i:nth-child(21) {
+    top: 120px;
+    left: 930px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(184, 175, 3, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(184, 175, 3) 0px 0px 5px 0px;
+    animation-duration: 8s;
+}
+
+i:nth-child(22) {
+    top: 80px;
+    left: 700px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(171, 250, 249, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(171, 250, 249) 0px 0px 5px 0px;
+    animation-duration: 5s;
+}
+
+i:nth-child(23) {
+    top: 350px;
+    left: 720px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(127, 15, 255, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(127, 15, 255) 0px 0px 5px 0px;
+    animation-duration: 2s;
+}
+
+i:nth-child(24) {
+    top: 997px;
+    left: 678px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(48, 128, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(48, 128, 0) 0px 0px 5px 0px;
+    animation-duration: 3s;
+}
+
+i:nth-child(25) {
+    top: 714px;
+    left: 246px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(255, 38, 38, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(255, 38, 38) 0px 0px 5px 0px;
+    animation-duration: 4s;
+}
+
+i:nth-child(26) {
+    top: 0px;
+    left: 480px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(15, 29, 215, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(15, 29, 215) 0px 0px 5px 0px;
+    animation-duration: 5s;
+}
+
+i:nth-child(27) {
+    top: 456px;
+    left: 1000px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(51, 102, 153, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(51, 102, 153) 0px 0px 5px 0px;
+    animation-duration: 6s;
+}
+
+i:nth-child(28) {
+    top: 350px;
+    left: 865px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(70, 172, 255, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(70, 172, 255) 0px 0px 5px 0px;
+    animation-duration: 7s;
+}
+
+i:nth-child(29) {
+    top: 100px;
+    left: 100px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(222, 4, 5, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(222, 4, 5) 0px 0px 5px 0px;
+    animation-duration: 8s;
+}
+
+i:nth-child(30) {
+    top: 1087px;
+    left: 722px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(77, 254, 21, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(77, 254, 21) 0px 0px 5px 0px;
+    animation-duration: 9s;
+}
+
+i:nth-child(31) {
+    width: 200px;
+    height: 200px;
+    top: 795px;
+    left: 605px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(243, 10, 70, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(243, 10, 70) 0px 0px 5px 0px;
+    animation-duration: 1s;
+}
+
+i:nth-child(32) {
+    top: 234px;
+    left: 678px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(245, 253, 45, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(245, 253, 45) 0px 0px 5px 0px;
+    animation-duration: 2s;
+}
+
+i:nth-child(33) {
+    top: 270px;
+    left: 1230px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(178, 0, 255, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(178, 0, 255) 0px 0px 5px 0px;
+    animation-duration: 3s;
+}
+
+i:nth-child(34) {
+    width: 200px;
+    height: 200px;
+    top: 1126px;
+    left: 332px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(102, 204, 255, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(102, 204, 255) 0px 0px 5px 0px;
+}
+
+i:nth-child(35) {
+    top: 407px;
+    left: 83px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(20, 243, 175, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(20, 243, 175) 0px 0px 5px 0px;
+    animation-duration: 5s;
+}
+
+i:nth-child(36) {
+    width: 200px;
+    height: 200px;
+    top: 176px;
+    left: 297px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(100, 245, 102, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(100, 245, 102) 0px 0px 5px 0px;
+    animation-duration: 6s;
+}
+
+i:nth-child(37) {
+    width: 300px;
+    height: 300px;
+    top: 820px;
+    right: 10px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(236, 218, 65, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(236, 218, 65) 0px 0px 5px 0px;
+    animation-duration: 7s;
+}
+
+i:nth-child(38) {
+    top: 500px;
+    left: 500px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(255, 61, 45, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(255, 61, 45) 0px 0px 5px 0px;
+    animation-duration: 8s;
+}
+
+i:nth-child(39) {
+    top: 20px;
+    right: 26px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(74, 73, 235, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(74, 73, 235) 0px 0px 5px 0px;
+    animation-duration: 9s;
+}
+
+i:nth-child(40) {
+    width: 200px;
+    height: 200px;
+    top: 251px;
+    left: 1053px;
+    background-image: -webkit-radial-gradient(center center, ellipse cover, rgba(255, 72, 0, 0.65) 0%, rgba(0, 0, 0, 0) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+    box-shadow: rgb(255, 72, 0) 0px 0px 5px 0px;
+    animation-duration: 10s;
+}
+
+* {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    box-sizing: border-box;
+}
+
+header {
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(109, 40, 217);
+    width: 100%;
+    box-shadow: rgba(50, 50, 93, 0.8) 0px 50px 100px -20px, rgba(0, 0, 0, 0.8) 0px 30px 60px -30px;
+    padding-top: 1.5em;
+    padding-right: 2em;
+    padding-bottom: 0.5em;
+    padding-left: 2em;
+    height: 80px;
+}
+
+.containerq {
+    width: 100%;
+    max-width: 1200px;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-weight: bold;
+    font-size: 1.25rem;
+    padding-bottom: 0.5em;
+}
+
+nav ul {
+    list-style-position: initial;
+    list-style-image: initial;
+    list-style-type: none;
+    display: flex;
+    row-gap: 1.5rem;
+    column-gap: 1.5rem;
+    font-size: 1rem;
+}
+
+a {
+    color: inherit;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    width: 100%;
+    height: 100%;
+}
+
+nav ul li {
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: transparent;
+    padding-bottom: 0.5em;
+    transition-duration: 200ms;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+    cursor: pointer;
+}
+
+nav ul li:hover {
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+}
+
+#burger {
+    display: none;
+}
+
+footer {
+    background-color: rgb(8, 8, 8);
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0.5em;
+    padding-right: 1em;
+    padding-bottom: 0.5em;
+    padding-left: 1em;
+    margin-top: 34px;
+}
+
+footer .social-links>* {
+    margin-right: 1em;
+    font-size: 1.2rem;
+}
+
+footer .social-links a {
+    transition-duration: 300ms;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+    transition-property: color;
+}
+
+footer .social-links a:hover {
+    color: rgb(251, 146, 60);
+}
+
+footer p a {
+    position: relative;
+    z-index: 2;
+    transition-duration: 300ms;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+    transition-property: color;
+}
+
+footer p a:hover {
+    color: rgb(251, 146, 60);
+}
+
+footer p a::after {
+    content: "";
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 0.1em;
+    z-index: 0;
+    opacity: 0.7;
+    background-color: rgb(251, 146, 60);
+}
+
+.content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 160px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    font-family: Lato, sans-serif;
+    font-size: 35px;
+    line-height: 40px;
+    color: rgb(236, 240, 241);
+}
+
+.content__container {
+    font-weight: 600;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    height: 40px;
+    padding-top: 0px;
+    padding-right: 40px;
+    padding-bottom: 0px;
+    padding-left: 40px;
+}
+
+.content__container::before {
+    content: "[";
+    left: 0px;
+    position: absolute;
+    top: 0px;
+    color: rgb(22, 160, 133);
+    font-size: 42px;
+    line-height: 40px;
+    animation-name: opacity;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+.content__container::after {
+    content: "]";
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    color: rgb(22, 160, 133);
+    font-size: 42px;
+    line-height: 40px;
+    animation-name: opacity;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+.content__container__text {
+    display: inline;
+    float: left;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+.content__container__list {
+    margin-top: 0px;
+    padding-left: 110px;
+    text-align: left;
+    list-style-position: initial;
+    list-style-image: initial;
+    list-style-type: none;
+    animation-name: change;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+
+.content__container__list__item {
+    line-height: 40px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin: auto auto auto auto;
+    padding: 8px 10px 10px 10px;
+
+}
+
+.bn632-hover {
+    width: 160px;
+    font-size: 16px;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    margin-top: 200px;
+    margin-right: 200px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+    height: 8vh;
+    text-align: center;
+    border-top-width: initial;
+    border-right-width: initial;
+    border-bottom-width: initial;
+    border-left-width: initial;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-top-color: initial;
+    border-right-color: initial;
+    border-bottom-color: initial;
+    border-left-color: initial;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    background-size: 300% 100%;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    transition-duration: 0.4s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+    transition-property: all;
+    position: relative;
+    z-index: 10010;
+    align-items: center;
+}
+
+@media (max-width: 768px) {
+    #btn {
+        right: 4%;
+    }
+}
+
+
+.bn632-hover:hover {
+    background-position-x: 100%;
+    background-position-y: 0px;
+    transition-duration: 0.4s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+    transition-property: all;
+    z-index: 10010;
+}
+
+.bn632-hover:focus {
+    outline-color: initial;
+    outline-style: none;
+    outline-width: initial;
+    z-index: 10010;
+}
+
+.bn632-hover.bn27 {
+    background-image: linear-gradient(to right, rgb(237, 110, 160), rgb(236, 140, 105), rgb(247, 24, 106), rgb(251, 176, 59));
+    box-shadow: rgba(236, 116, 149, 0.75) 0px 4px 15px 0px;
+    z-index: 10010;
+    position: fixed;
+    right: 36%;
+    top: 20%;
+    bottom: 473.812px;
+}
+
+.display-4.my-4.text-uppercase {
+    position: relative;
+    top: 1200px;
+    color: white;
+}
+
+.img-fluid {
+    top: 1224px;
+    position: relative;
+    display: inline;
+}
+
+.image-wrap {
+    height: 250px;
+}
+
+.image-wrap img {
+    transition-duration: 0.4s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    cursor: zoom-in;
+}
+
+.image-wrap img:hover {
+    transform: scale(0.99);
+}
+
+.col-md-12:empty {
+    display: table-cell;
+    height: 75px;
+}
+
+#it27k {
+    top: 795px;
+}
+
+@keyframes screen {
+    0% {
+        opacity: 0;
+    }
+
+    25% {
+        opacity: 0.3;
+        transform: scale3d(3, 3, 4);
+    }
+
+    50% {
+        opacity: 0.75;
+    }
+
+    75% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes opacity {
+
+    0%,
+    100% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+}
+
+@keyframes change {
+
+    0%,
+    12.66%,
+    100% {
+        transform: translate3d(0px, 0px, 0px);
+    }
+
+    16.66%,
+    29.32% {
+        transform: translate3d(0px, -25%, 0px);
+    }
+
+    33.32%,
+    45.98% {
+        transform: translate3d(0px, -50%, 0px);
+    }
+
+    49.98%,
+    62.64% {
+        transform: translate3d(0px, -75%, 0px);
+    }
+
+    66.64%,
+    79.3% {
+        transform: translate3d(0px, -50%, 0px);
+    }
+
+    83.3%,
+    95.96% {
+        transform: translate3d(0px, -25%, 0px);
+    }
+}
+
+@media (max-width: 768px) {
+    #burger {
+        box-sizing: initial;
+        display: block;
+        width: 1rem;
+        color: white;
+        cursor: pointer;
+        margin-bottom: 0.5em;
+    }
+
+    #burger:focus {
+        border-top-width: initial;
+        border-right-width: initial;
+        border-bottom-width: initial;
+        border-left-width: initial;
+        border-top-style: none;
+        border-right-style: none;
+        border-bottom-style: none;
+        border-left-style: none;
+        border-top-color: initial;
+        border-right-color: initial;
+        border-bottom-color: initial;
+        border-left-color: initial;
+        border-image-source: initial;
+        border-image-slice: initial;
+        border-image-width: initial;
+        border-image-outset: initial;
+        border-image-repeat: initial;
+        outline-color: initial;
+        outline-style: none;
+        outline-width: initial;
+    }
+
+    nav {
+        position: absolute;
+        right: 0px;
+        top: 3em;
+        background-image: initial;
+        background-position-x: initial;
+        background-position-y: initial;
+        background-size: initial;
+        background-repeat-x: initial;
+        background-repeat-y: initial;
+        background-attachment: initial;
+        background-origin: initial;
+        background-clip: initial;
+        background-color: rgb(234, 88, 12);
+        min-width: 15em;
+        padding-top: 2em;
+        padding-right: 2em;
+        padding-bottom: 2em;
+        padding-left: 2em;
+        box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+        clip-path: circle(0% at 100% 0%);
+        transition-duration: 500ms;
+        transition-timing-function: ease-in-out;
+        transition-delay: 0s;
+        transition-property: all;
+    }
+
+    nav.show {
+        clip-path: circle(200% at 100% 0%);
+        transition-duration: 300ms;
+    }
+
+    nav ul {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    footer .container {
+        flex-direction: column;
+    }
+
+    footer .container p {
+        margin-block-start: 0.3em;
+        margin-block-end: 0.3em;
+    }
+}
+
+
+.footer {
+    width: 100%;
+    background: #00121b;
+    display: flex;
+    position: relative;
+    z-index: 101010;
+    top: 1200px;
+}
+
+.inner-footer {
+    width: 95%;
+    margin: auto;
+    padding: 30px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.footer-items {
+    width: 25%;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+.footer-items p {
+    font-size: 16px;
+    text-align: justify;
+    line-height: 25px;
+    color: #fff;
+}
+
+.footer-items h1 {
+    color: #fff;
+}
+
+.border1 {
+    height: 3px;
+    width: 40px;
+    background: #ff9800;
+    color: #ff9800;
+    background-color: #ff9800;
+    border: 0px;
+}
+
+ul {
+    list-style: none;
+    color: #fff;
+    font-size: 25px;
+    letter-spacing: 0.5px;
+    letter-spacing: 2px;
+    font-size: 32px;
+}
+
+ul a {
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    transition: 0.3s;
+}
+
+ul a:hover {
+    color: #ff9800;
+}
+
+ul li {
+    margin: 10px 0;
+    height: 25px;
+    font-size: 0.9em;
+}
+
+li i {
+    margin-right: 20px;
+}
+
+.social-media {
+    width: 100%;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+}
+
+.social-media a {
+    text-decoration: none;
+}
+
+.social-media i {
+    height: 25px;
+    width: 25px;
+    margin: 20px 10px;
+    padding: 4px;
+    color: #fff;
+    transition: 0.5s;
+}
+
+.social-media i:hover {
+    transform: scale(1.5);
+}
+
+.footer-bottom {
+    padding: 10px;
+    background: #00121b;
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+}
+
+
+@media screen and (max-width: 1275px) {
+    .footer-items {
+        width: 50%;
+    }
+}
+
+
+@media screen and (max-width: 660px) {
+    .footer-items {
+        width: 100%;
+    }
+}
